@@ -4,7 +4,7 @@ Once completed, we will finalize this README file.
 
 # ✍️ akiTeck
 
-AkiTech is a versatile SaaS frontend application designed to cater to a wide range of business types. 
+akiTech is a versatile SaaS frontend application designed to cater to a wide range of business types. 
 Whether you're in retail, services, technology, or any other sector, AkiTech adapts seamlessly to meet your unique needs,
  providing powerful tools to enhance your business operations.
 
