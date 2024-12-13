@@ -40,3 +40,36 @@ Whether you're in retail, services, technology, or any other sector, AkiTech ada
 - Integrated google maps
 - Fully responsive on all devices
 - 404 not found
+
+## Getting Started & Installation
+
+### Installation
+
+1. Install [Node](https://nodejs.org/en/) and [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)
+2. Fork the project
+3. open the project in your favorite code editor
+4. Navigate to the `AkiTech` directory, then run the following command to install dependencies👇:
+
+   ```bash
+   npm install 
+   ```
+Or
+
+   ```bash
+  npm install --legacy-peer-deps
+   ```
+   
+5. To start the development server, run the following command:
+
+   ```bash
+ npm run dev
+   ```
+
+6. you are done. Now, the server will start at http://loaclhost:3000.
+
+
+### Build for production
+
+   ```bash
+ yarn build
+   ```
