@@ -67,7 +67,7 @@ Or
  
    ```
 
-6. you are done. Now, the server will start at http://loaclhost:3000.
+6. You are done. Now, the server will start at http://loaclhost:3000.
 
 
 ### Build for production
