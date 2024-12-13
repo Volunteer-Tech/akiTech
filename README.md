@@ -61,7 +61,7 @@ Or
    
 5. To start the development server, run the following command:
 
-   ```bash
+```bash
    
  npm run dev
  
@@ -72,8 +72,10 @@ Or
 
 ### Build for production
 
-   ```bash
+```bash
+
  yarn build
+ 
    ```
 
 
