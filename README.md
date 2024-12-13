@@ -50,7 +50,7 @@ Whether you're in retail, services, technology, or any other sector, AkiTech ada
 3. open the project in your favorite code editor
 4. Navigate to the `AkiTech` directory, then run the following command to install dependencies👇:
 
-   ```bash
+ ```bash
    npm install 
    ```
 Or
