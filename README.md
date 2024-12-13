@@ -76,11 +76,12 @@ Or
 
 
 ## Sources and Credits
-[Twitter Bootstrap](http://getbootstrap.com/) 
-[Swiper](https://swiperjs.com/) 
-[Slick](https://react-slick.neostack.com/docs/get-started) 
-[Magnific-popup](http://dimsemenov.com/plugins/magnific-popup/) 
-[Allfreephotos](http://allfreephotos.net/) 
-[Freepik](http://www.freepik.com/) 
-[unsplash](https://unsplash.com/) 
-[Nothingtochance](http://nothingtochance.co/) 
+
+- [Twitter Bootstrap](http://getbootstrap.com/) 
+- [Swiper](https://swiperjs.com/) 
+- [Slick](https://react-slick.neostack.com/docs/get-started) 
+- [Magnific-popup](http://dimsemenov.com/plugins/magnific-popup/) 
+- [Allfreephotos](http://allfreephotos.net/) 
+- [Freepik](http://www.freepik.com/) 
+- [unsplash](https://unsplash.com/) 
+- [Nothingtochance](http://nothingtochance.co/) 
