@@ -62,7 +62,9 @@ Or
 5. To start the development server, run the following command:
 
    ```bash
+   
  npm run dev
+ 
    ```
 
 6. you are done. Now, the server will start at http://loaclhost:3000.
