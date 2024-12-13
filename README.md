@@ -48,7 +48,7 @@ Whether you're in retail, services, technology, or any other sector, AkiTech ada
 1. Install [Node](https://nodejs.org/en/) and [Yarn](https://classic.yarnpkg.com/lang/en/docs/install/#windows-stable)
 2. Fork the project
 3. open the project in your favorite code editor
-4. Navigate to the `AkiTech` directory, then run the following command to install dependencies👇:
+4. Navigate to the `akiTech` directory, then run the following command to install dependencies👇:
 
  ```bash
    npm install 
