@@ -29,7 +29,7 @@ Whether you're in retail, services, technology, or any other sector, AkiTech ada
 - Team
 - Career
 - About Us
-- Engaging comment
+- Engaging comment Section
 - FAQs
 - Work with Us
 - Get Started
