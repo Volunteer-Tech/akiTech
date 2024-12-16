@@ -78,6 +78,13 @@ Or
  
    ```
 
+### Screenshot
+
+<a href="#" target="_blank"><img src="https://i.imgur.com/iw1Z9Hx.png" alt="akiTech app home page"> </a>
+<a href="#" target="_blank"><img src="https://i.imgur.com/zKJBLe5.png" alt="akiTech"> </a>
+
+<a href="#" target="_blank"><img src="https://i.imgur.com/St2hat3.png" alt="akiTech login page"> </a>
+<a href="#" target="_blank"><img src="https://i.imgur.com/WI24PjT.png" alt="akiTech"> </a>
 
 ## Sources and Credits
 
