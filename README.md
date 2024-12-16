@@ -86,6 +86,13 @@ Or
 <a href="#" target="_blank"><img src="https://i.imgur.com/St2hat3.png" alt="akiTech login page"> </a>
 <a href="#" target="_blank"><img src="https://i.imgur.com/WI24PjT.png" alt="akiTech"> </a>
 
+## Issues
+
+If you find any issues while installing or using the app, kindly open an [issue](https://github.com/Volunteer-Tech/akiTech/issues) with the tag "enhancement".
+
+**Note:** Make sure you browse through the existing issues to check if the issue already exists.<br>
+
+
 ## Sources and Credits
 
 - [Twitter Bootstrap](http://getbootstrap.com/) 
