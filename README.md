@@ -78,6 +78,10 @@ Or
  
    ```
 
+
+## [Visit akiTech](https://akitech.vercel.app/)
+
+
 ### Screenshot
 
 <a href="#" target="_blank"><img src="https://i.imgur.com/iw1Z9Hx.png" alt="akiTech app home page"> </a>
