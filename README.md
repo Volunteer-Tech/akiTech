@@ -111,3 +111,5 @@ create a pull request. You can also simply open a [discussions](https://github.c
 - [Freepik](http://www.freepik.com/) 
 - [unsplash](https://unsplash.com/) 
 - [Nothingtochance](http://nothingtochance.co/) 
+
+#### Please give this repo a ⭐ if you learn something from it. It will motivate us to do more!
