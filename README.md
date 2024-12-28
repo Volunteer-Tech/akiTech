@@ -1,6 +1,3 @@
-# This Project is under development
-
-Once completed, we will finalize this README file.
 
 # ✍️ akiTech
 
