@@ -2,7 +2,7 @@
 # ✍️ akiTech
 
 akiTech is a versatile SaaS frontend application designed to cater to a wide range of business types. 
-Whether you're in retail, services, technology, or any other sector, AkiTech adapts seamlessly to meet your unique needs,
+Whether you're in retail, services, technology, or any other sector, akiTech adapts seamlessly to meet your unique needs,
  providing powerful tools to enhance your business operations.
 
 ## 💻⚛️🏗️🛠️ Tech-stacks used
@@ -101,6 +101,9 @@ Any contributions you make are **greatly appreciated**.
 If you have a suggestion that would make this app better, please fork the repo and
 create a pull request. You can also simply open a [discussions](https://github.com/Volunteer-Tech/akiTech/discussions/) or an [issue](https://github.com/Volunteer-Tech/akiTech/issues) with the tag "enhancement".
 
+## Authors
+1. [Aklilu Mandefro](https://github.com/Aklilu-Mandefro)
+2. [Anna Arihu](https://github.com/annarihu) 
 
 ## Sources and Credits
 
