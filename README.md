@@ -71,7 +71,7 @@ Or
 
 ```bash
 
- yarn build
+ npm run build
  
    ```
 
